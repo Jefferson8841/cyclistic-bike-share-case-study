@@ -1,12 +1,16 @@
 # Cyclistic Bike-Share Case Study
 
+## Executive Summary
+
+Casual riders primarily use the service for longer, weekend leisure trips, while members rely on it for consistent weekday commuting. This behavioral gap presents a clear opportunity to convert casual users through targeted weekend campaigns and cost-focused membership positioning.
+
 ## Project Overview
 
-This project analyzes historical Cyclistic bike-share trip data to understand how casual riders and annual members use the service differently. The goal is to generate insights that can support marketing strategies focused on converting casual riders into members.
+This project analyzes historical Cyclistic bike-share trip data to understand how casual riders and annual members use the service differently. The objective is to generate data-driven insights that support marketing strategies aimed at converting casual riders into long-term members.
 
 ## Business Task
 
-Identify key behavioral differences between casual riders and members using trip data from the first quarter of 2019 and 2020.
+Identify key behavioral differences between casual riders and members using trip data from the first quarter of 2019 and 2020, and translate these insights into actionable business recommendations.
 
 ## Files
 
@@ -32,11 +36,11 @@ Identify key behavioral differences between casual riders and members using trip
 
 ## Key Findings
 
-- Most recorded rides in the dataset were taken by members.
-- Casual riders had longer median ride durations than members.
-- Casual riders showed a stronger weekend riding pattern.
-- Members showed a stronger weekday riding pattern.
-- March had the highest share of rides for both rider groups in the first quarter.
+- Members account for the majority of total rides, indicating strong adoption among frequent users.
+- Casual riders exhibit longer median ride durations, suggesting they primarily use the service for leisure rather than routine transportation.
+- Casual riders show a pronounced weekend usage pattern, reinforcing their recreational behavior.
+- Members demonstrate consistent weekday usage, indicating reliance on the service for commuting and daily mobility.
+- March shows the highest share of rides for both groups, suggesting a seasonal increase in demand toward the end of Q1.
 
 ## Sample Visualizations
 
@@ -48,9 +52,10 @@ Identify key behavioral differences between casual riders and members using trip
 
 ## Recommendations
 
-- Promote membership as a cost-effective option for casual riders who take longer trips.
-- Focus campaigns on weekends and high-activity periods when casual riders are more active.
-- Expand the analysis with additional time periods, route-level data, and customer-level insights if available.
+- Position membership as a cost-effective solution for casual riders who frequently take longer trips, emphasizing potential savings over time.
+- Launch targeted weekend marketing campaigns, as casual rider activity peaks during this period.
+- Introduce trial-based or short-term membership options to reduce the barrier to conversion.
+- Expand the analysis with additional time periods, route-level data, and customer-level insights to refine targeting strategies.
 
 ## Data Source
 
@@ -60,5 +65,6 @@ The raw datasets used in this project were not uploaded to this repository becau
 
 ## Notes
 
-- This project uses first-quarter data only.
-- Seasonal patterns suggested in the notebook would need additional monthly data to confirm.
+- The analysis is based on first-quarter data only; seasonal trends may not be fully captured.
+- Lack of demographic and customer-level data limits deeper segmentation.
+- Behavioral insights are inferred from trip patterns rather than explicitly stated user intent.
