@@ -46,7 +46,7 @@ Identify key behavioral differences between casual riders and members using trip
 
 ## Data Source
 
-Cyclistic / Divvy historical trip data:
+The raw datasets used in this project were not uploaded to this repository because of GitHub file size limits. They can be downloaded from the official Divvy trip data source:
 
 - https://divvy-tripdata.s3.amazonaws.com/index.html
 
