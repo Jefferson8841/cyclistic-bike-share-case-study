@@ -45,10 +45,10 @@ Identify key behavioral differences between casual riders and members using trip
 ## Sample Visualizations
 
 ### Total Rides by Rider Type
-![Total rides by rider type](images/total_rides_by_rider_type.png)
+![Total rides by rider type](images/median_ride_length_by_rider_type.png)
 
 ### Ride Distribution by Day of Week
-![Ride distribution by day of week](images/rides_by_day_of_week.png)
+![Ride distribution by day of week](images/rides_by_month.png)
 
 ## Recommendations
 
