@@ -38,6 +38,14 @@ Identify key behavioral differences between casual riders and members using trip
 - Members showed a stronger weekday riding pattern.
 - March had the highest share of rides for both rider groups in the first quarter.
 
+## Sample Visualizations
+
+### Total Rides by Rider Type
+![Total rides by rider type](images/total_rides_by_rider_type.png)
+
+### Ride Distribution by Day of Week
+![Ride distribution by day of week](images/rides_by_day_of_week.png)
+
 ## Recommendations
 
 - Promote membership as a cost-effective option for casual riders who take longer trips.
